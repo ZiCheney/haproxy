@@ -1,4 +1,0 @@
-[mysqld]
-server-id = 20
-relay-log = myrelay
-
